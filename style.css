@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: #000000
+}
+
+.gambar{
+    width: 300px;
+    float: left;
+    margin-left: 10px;
+}
+
+.botak{
+    width: 300px;
+    float: justify;
+    margin-left: 10px;
+}
